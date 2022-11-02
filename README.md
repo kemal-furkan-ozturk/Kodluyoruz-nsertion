@@ -1,5 +1,5 @@
 # Kodluyoruz İnsertion
-www.patika.dev
+https://app.patika.dev/carlsen
 
 İnsertion Sort
 
